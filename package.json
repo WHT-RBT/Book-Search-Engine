@@ -14,5 +14,13 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.0",
+    "@graphql-tools/utils": "^10.0.6",
+    "apollo-server-express": "^3.12.1",
+    "graphql": "^16.8.0",
+    "graphql-tag": "^2.12.6",
+    "graphql-tools": "^9.0.0"
   }
 }
