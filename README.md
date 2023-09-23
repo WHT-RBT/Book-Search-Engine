@@ -8,26 +8,27 @@ This app is a a Google Books API search engine built with a RESTful API, refacto
 
     - AS AN avid reader
     - I WANT to search for new books to read
-    - SO THAT I can keep a list of books to purchase
+    - SO THAT I can save a list of books to later purchase
 
 
 ## Mock-Up
 
-As you can see in the following animation, a user can type a search term (in this case, "star wars") in a search box and the results appear:
+<br>
+As you can see in the following animation, a user can search for a book and the results appear:
 
-![Alt text](21-mern-homework-demo-01.gif)
+<br>
 
-The user can save books by clicking "Save This Book!" under each search result, as shown in the following animation:
+![Google Book Search Results](<client/public/Google Book Search.gif>)
 
-![Alt text](21-mern-homework-demo-02.gif)
+<br>
 
-A user can view their saved books on a separate page, as shown in the following animation:
-
-![Alt text](21-mern-homework-demo-03.gif)
-
-
+The user can register for an account so they can save books by clicking the "Save This Book!" button under each search result, and later visit their Saved Books as shown in the following animation:
+<br>
 
 
+![Save This Book Feature and later View Saved Books](<client/public/Google Saved Books.gif>)
+
+<br>
 
 ## Links
 
