@@ -36,5 +36,5 @@ GitHub Repo:
 https://github.com/WHT-RBT/Book-Search-Engine 
 
 Heroku url:
-https://git.heroku.com/google-books-searchengine.git 
+https://google-books-searchengine-b735e796de24.herokuapp.com/ 
 
